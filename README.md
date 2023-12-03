@@ -36,12 +36,13 @@ Before you begin, make sure you have the following tools installed on your machi
    git clone https://github.com/puteriidiyana/react-blog.git
    ```
 
-2. Navigate to the Project Directory
+2. Navigate to the Project Directory, open terminal and type
    cd react-blog
 3. Install dependencies
    npm install
 4. Run the code
    npm run dev
+5. press ctrl + click the link will directly open the Blog dashboard
 
 #### Features
 
